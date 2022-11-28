@@ -25,7 +25,7 @@ console.log(a,b,c,d,e,f)
 //Ejercicio 3
 
 a= true || true && false || true
-b= !( (false || false) && (true || true) || true )
+b= !((false || false) && (true || true) || true) 
 c= ! false && (false || true) && (! true && false)
 d= ! ( true || false) && (false && true)
 
